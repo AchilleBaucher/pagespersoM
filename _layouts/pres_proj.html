@@ -32,7 +32,7 @@ layout: default
         {{ content }}
       </section>
 
-      {% if page.report %}<p><a href={{base_url}}/files/{{ page.report }}>Report</a>{% endif %}
+      {% if page.report %}<p><a href={{base_path}}/files/{{ page.report }}>Report</a>{% endif %}
       {% include post_pagination.html %}
     </div>
   </article>
