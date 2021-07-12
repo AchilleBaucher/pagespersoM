@@ -15,6 +15,11 @@ List of school, personal or internship projects.
 
 {{ proj.summary }}
 
-[report]({{ base_path }}/files/{{ proj.report }})
+{% if proj.languages %}
+{% assign liste_languages = proj.languages | split: ',' %}
+  {% for l in liste_languages %}`{{ l }}`{% endfor %}
+{% endif %}
+
+{%if proj.report %}[Report]({{ base_path }}/files/{{ proj.report }}){% endif %}
 - ---------------------------------------------
 {% endfor %}
