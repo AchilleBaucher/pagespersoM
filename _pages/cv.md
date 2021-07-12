@@ -11,49 +11,50 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Erasmus Exchange Semester, [University of Oslo](https://www.uio.no/), *Spring 2021*
+  * *Probabilistic Graphical Models, Computational Statistics, Statistical Model Selection*
+* Applied Mathematics and Computer Science, [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/), *2017 - ongoing*
+  * *Analysis, Modelling, Optimisation, Data Analysis, Algorithmic, Computing, Databases, Graph Theory, High Performance Computing, Machine Learning, Cryptography*
+* Scientific Baccalaureate, Lycée Hoche de Versailles, *2016*
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+{% for proj in site.projects reversed%}
+{% if proj.type == 'internship' %}
+* {{ proj.date | date: "%B %Y"}}: [{{ proj.title }}]({{ base_path }}{{ proj.url }})
+  * *{{ proj.what }}* {%if proj.institution %}{%if proj.institution_url %}*, [{{ proj.institution }}]({{ proj.institution_url }})*{% else %} {{ proj.institution }} {% endif %}{% endif %}
+  * {{proj.summary}}
+{% endif %}
+{% endfor %}
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Other projects
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+{% for proj in site.projects reversed %}
+{% if proj.type != 'internship' %}
+* [{{ proj.title }}]({{ base_path }}{{ proj.url }})
+  * *{{ proj.what }}*{%if proj.institution %}{%if proj.institution_url %}*, [{{ proj.institution }}]({{ proj.institution_url }})*{% else %} {{ proj.institution }} {% endif %}{% endif %}*, {{ proj.date | date_to_string}}*
+{% endif %}
+{% endfor %}
 
-Publications
+Programming skills
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* Python
+* R
+* C++
+* Matlab
+* LateX
+
+Languages
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
+* French (native)
+* English (B2)
+* Chinese (HSK1)
+
+Associative Experience
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Lupalytech, 2019-2020
+  * Co-created an association to support and supervise various ecological projects
+* Rafisto, 2018-2019
+  * Organized workshops to repair electronic devices
+* Scout, 2010-2016
+  * ...

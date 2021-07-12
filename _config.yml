@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Achille Baucher / Personal Website"
+title                    : "Achille Baucher"
 title_separator          : "-"
 name                     : &name "Achille Baucher"
 description              : &description "personal description"
