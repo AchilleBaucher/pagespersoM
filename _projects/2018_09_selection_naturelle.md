@@ -10,6 +10,7 @@ report: "report_selection_naturelle.pdf"
 logo:
 languages: "Matlab,LateX"
 ---
+{% include base_path %}
 
 ## More
-We also designed a [poster](/files/poster_selection_naturelle.pdf) to present our results.
+We also designed a [poster]({{ base_path }}/files/poster_selection_naturelle.pdf) to present our results.
