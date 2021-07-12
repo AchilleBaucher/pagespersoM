@@ -6,3 +6,5 @@ summary: 'We analysed a dataset of letters written by french deputees to ministe
 report: "report_metriq.pdf"
 logo:
 ---
+## Summary
+{{ page.summary }}
