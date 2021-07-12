@@ -11,6 +11,5 @@ logo:
 languages: "Matlab,LateX"
 ---
 {% include base_path %}
-{{ base_path }}
 ## More
 We also designed a [poster]({{ base_path }}/files/poster_selection_naturelle.pdf) to present our results.
