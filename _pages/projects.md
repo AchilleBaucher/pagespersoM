@@ -11,7 +11,7 @@ List of school, personal or internship projects.
 
 {% for proj in site.projects reversed %}
 ## [{{ proj.title }}]({{ base_path }}{{ proj.url }})
-*{{ proj.type }}, {{ proj.date | date_to_string}}*
+*{{ proj.what }}, {{ proj.date | date_to_string}}*
 
 {{ proj.summary }}
 
