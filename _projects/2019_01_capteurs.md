@@ -1,0 +1,12 @@
+---
+title: "Classifications and Variability Analysis of captors"
+date: 2019-01-01
+type: 'school'
+what: '6 month research school project'
+institution: Polytech Sorbonne
+institution_url: https://www.polytech.sorbonne-universite.fr/
+summary: 'We classified captors according to their temporal measures. We then tried to decide their fiability by comparing their variability with other captors.'
+report: "report_capteurs.pdf"
+logo:
+languages: "R,LateX"
+---

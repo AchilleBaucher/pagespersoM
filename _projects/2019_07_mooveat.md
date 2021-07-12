@@ -8,6 +8,5 @@ institution_url: https://www.mooveat.co/
 summary: 'I used web scraping and implemented a geolocation API in Python.'
 report:
 logo:
+languages: "Python,Django"
 ---
-## Summary
-{{ page.summary }}
