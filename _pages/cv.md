@@ -53,8 +53,10 @@ Languages
 Associative Experience
 ======
 * Lupalytech, 2019-2020
-  * Co-created an association to support and supervise various ecological projects
-* Rafisto, 2018-2019
-  * Organized workshops to repair electronic devices
+  * Co-created an association to support various ecological projects.
+  * Hired new students, helped to design and supervised projects, workshops, etc.
+* Rafisto (Enactus project), 2018-2019
+  * Co-created and led an associative project
+  * Organized workshops to repair devices, Tried to sensibilise students about planned obsollescence
 * Scout, 2010-2016
   * ...
