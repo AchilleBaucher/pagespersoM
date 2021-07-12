@@ -12,7 +12,11 @@ Mes projets. Modifier et ajouter dans _projects. S'insiprer de publications et d
 *{{ proj.date }}*
 
 {{ proj.summary }}
-* {{ base_path }}
+* bp: {{ base_path }}
+
+* bu: {{ base_url }}
+
+* u: {{ url }}
 
 [report]({{ base_path }}/files/{{ proj.report }})
 {% endfor %}
