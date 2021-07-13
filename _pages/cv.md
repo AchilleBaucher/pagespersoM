@@ -6,8 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-pdf: [en]({{ base_path }}/files/cv_en.pdf), [fr]({{ base_path }}/files/cv_fr.pdf)
 {% include base_path %}
+Pdf versions: [EN]({{ base_path }}/files/cv_en.pdf), [FR]({{ base_path }}/files/cv_fr.pdf)
+
 
 Education
 ======
