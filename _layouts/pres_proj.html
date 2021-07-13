@@ -21,21 +21,32 @@ layout: default
         <header>
           {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
           {% if page.date %}
-            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong>{{ page.date | date: "%B %d, %Y" }}</p>
+            <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong>{{ page.date | date: "%B %Y" }}</p>
           {% endif %}
           {% if page.logo %}
-            <img src={{ base_path }}/images/{{ page.logo }} alt = 'logo' title = {{ page.logo_desc }}>
+            <img align="left" height="300px" width="300px" style="margin-right:40px;border: 5px solid;" src={{ base_path }}/images/{{ page.logo }} alt = 'logo' title = {{ page.logo_desc }}>
           {% endif %}
+          <p>{% if page.what %}
+            <i>{{ page.what }}</i>
+          {% endif %}
+          {% if page.institution_url %}
+            , <a href="{{ page.institution_url }}">{{ page.institution }}</a>
+          {% elsif page.institution %}
+            , {{ page.institution }}
+          {% endif %}</p>
           {% if page.summary %}
-            <p class="page__content"> <b>Summary</b>: {{ page.summary }} </p>
+            <p> <b>Summary</b>: {{ page.summary }} {% if page.report %}<a href="{{ base_path }}/files/{{ page.report }}"> Report </a>{% endif %}</p>
+          {% endif %}
+          {% if page.languages %}
+            {% include languages.md %}
           {% endif %}
         </header>
 
+      <br clear="left" />
       <section class="page__content" itemprop="text">
         {{ content }}
       </section>
 
-      {% if page.report %}<p><a href={{ base_path }}/files/{{ page.report }}>Report</a>{% endif %}
       {% include post_pagination.html %}
     </div>
   </article>
