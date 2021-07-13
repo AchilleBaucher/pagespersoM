@@ -7,7 +7,8 @@ institution: Polytech Sorbonne
 institution_url: https://www.polytech.sorbonne-universite.fr/
 summary: 'We derived equations to represent the quantitative evolution of several populations in a context of competition, reproduction and mutation. We deduced some interesting thresholds mechanisms about the domination of a population depending on the advantage brought by a mutation.'
 report: "report_selection_naturelle.pdf"
-logo:
+logo: logo_selection_naturelle.jpg
+logo_desc: "'Modelling population evolution depending on reproduction, death and mutations.'"
 languages: "Matlab,LateX"
 ---
 {% include base_path %}

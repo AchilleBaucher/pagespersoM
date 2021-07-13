@@ -7,6 +7,7 @@ institution: Polytech Sorbonne
 institution_url: https://www.polytech.sorbonne-universite.fr/
 summary: 'We implemented and studied algorithms of transfer learning for random forest, applied to a hand gesture classification task.'
 report: "report_transfer_tree.pdf"
-logo:
+logo: logo_transfer_tree.png
+logo_desc: "'2 different gestures'"
 languages: "Python,ScikitLearn"
 ---

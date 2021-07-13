@@ -23,6 +23,9 @@ layout: default
           {% if page.date %}
             <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i></strong>{{ page.date | date: "%B %d, %Y" }}</p>
           {% endif %}
+          {% if page.logo %}
+            <img src=/images/{{ page.logo }} alt = 'logo' title = {{ page.logo_desc }}>
+          {% endif %}
           {% if page.summary %}
             <p class="page__content"> <b>Summary</b>: {{ page.summary }} </p>
           {% endif %}

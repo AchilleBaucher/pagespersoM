@@ -7,6 +7,7 @@ institution: Polytech Sorbonne
 institution_url: https://www.polytech.sorbonne-universite.fr/
 summary: 'We designed and implemented algorithms to accelerate the enumeration of Steiner trees, that aim to connect points in 3D with minimal distance. We also created an interactive plateform to visualise and modifie 3D topologies.'
 report: 'report_steiner.pdf'
-logo:
+logo: logo_steiner.png
+logo_desc: "'Steiner Tree for the Cube'"
 languages: "Python,Plotly,Matplotlib"
 ---

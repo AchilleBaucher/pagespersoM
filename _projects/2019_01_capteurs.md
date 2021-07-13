@@ -7,6 +7,7 @@ institution: Polytech Sorbonne
 institution_url: https://www.polytech.sorbonne-universite.fr/
 summary: 'We classified captors according to their temporal measures. We then tried to decide their fiability by comparing their variability with other captors.'
 report: "report_capteurs.pdf"
-logo:
+logo: logo_capteurs.png
+logo_desc: "'Measurments of several captors of an indentified category.'"
 languages: "R,LateX"
 ---
