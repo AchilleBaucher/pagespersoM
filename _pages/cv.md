@@ -6,14 +6,14 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
+pdf: [en]({{ base_path }}/files/cv_en.pdf), [fr]({{ base_path }}/files/cv_fr.pdf)
 {% include base_path %}
 
 Education
 ======
 * Erasmus Exchange Semester, [University of Oslo](https://www.uio.no/), *Spring 2021*
   * *Probabilistic Graphical Models, Computational Statistics, Statistical Model Selection*
-* Applied Mathematics and Computer Science, [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/), *2017 - ongoing*
+* Ingineering Cursus in Applied Mathematics and Computer Science, [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/), *2016 - ongoing*
   * *Analysis, Modelling, Optimisation, Data Analysis, Algorithmic, Computing, Databases, Graph Theory, High Performance Computing, Machine Learning, Cryptography*
 * Scientific Baccalaureate, Lycée Hoche de Versailles, *2016*
 
@@ -32,7 +32,7 @@ Other projects
 {% for proj in site.projects reversed %}
 {% if proj.type != 'internship' %}
 * [{{ proj.title }}]({{ base_path }}{{ proj.url }})
-  * *{{ proj.what }}*{%if proj.institution %}{%if proj.institution_url %}*, [{{ proj.institution }}]({{ proj.institution_url }})*{% else %} {{ proj.institution }} {% endif %}{% endif %}*, {{ proj.date | date_to_string}}*
+  * *{{ proj.what }}, {{ proj.date | date:"%B %Y" }}*{%if proj.institution %}{%if proj.institution_url %}, [{{ proj.institution }}]({{ proj.institution_url }}){% else %}, {{ proj.institution }} {% endif %}{% endif %}
 {% endif %}
 {% endfor %}
 
@@ -43,6 +43,7 @@ Programming skills
 * C++
 * Matlab
 * LateX
+* Linux
 
 Languages
 ======
