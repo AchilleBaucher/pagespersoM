@@ -63,4 +63,4 @@ Associative Experience
   * Tried to sensibilise students about planned obsollescence
 * Scout, 2010-2016
   * Organized diverse projects: buildings, camps
-  * Led a team of height members during one year
+  * Led a team of 8 members during one year
