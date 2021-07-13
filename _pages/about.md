@@ -12,6 +12,11 @@ EN|[FR]({{ base_path }}{% link _pages/about_fr.md %})
 ## Short bio
 Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) in Applied Mathematics and Computer Science, I'm willing to continue my studies with a PhD. I'm currently looking for a 6 months reseach internship, see [below](#ideal-internship) for more information. You can have a look at my [projects]({{ base_path }}/projects/) and [CV]({{ base_path }}/cv/).
 
+### Potentially interesting qualities
+* I like complex and multi-field problems
+* I tend to criticize the meaning and the usefulness of my activity
+* I'm not afraid of proposing absurd ideas and questions (some are creative)
+
 ## Research interests
 * Machine Learning, theoretical aspects
 * Ecology, Environmental studies
@@ -25,8 +30,8 @@ I listed here the criteria I find the most important for my final internship. It
 
 ### Thème
 * Machine Learning, theoretical aspects
-* Conductive to interesting reflexions about the world (Ex: Causality, Information, Learning, etc.)
-* Possible applications in ecological and anvironmental studies
+* Conductive to interesting metaphysical thoughts: Causality, Information, Learning, etc.
+* Possible applications in ecological and environmental studies
 
 ### Context and objectives
 * To have a clear conduct line and objective
@@ -38,7 +43,7 @@ I listed here the criteria I find the most important for my final internship. It
 <!-- * Une ville agréable et riche à découvrir, Toulouse, Lyon, Nancy, Grenoble
 * Laboratoire accessible en vélo
 * Travail en présentiel, avec quelque flexibilité -->
-* Being able to interract with several researchers, to discover, to go to conferences
+* Being able to interact with several researchers, to discover, to go to conferences
 
 <!-- ### Divers
 * Éviter d'être financé par des organisations louches (industries d'armement, finance, acquisition de données personelles, etc.) -->

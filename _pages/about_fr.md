@@ -29,14 +29,14 @@ J'ai listé ici les critères qui me tenaient le plus à coeur dans la recherche
 
 ### Thème
 * Apprentissage artificiel, dans ses aspects théoriques
-* Propice aux réflexions sur le monde: ex causalité, information, apprentissage
+* Propice aux réflexions métaphysiques: causalité, information, apprentissage, etc.
 * Applications possibles en écologie & études environnementales
 
 ### Sujet
 * Structuré: disposer d'une piste claire et d'un objectif
 * Libre: pas completement dépendant de l'objectif, exploration possible
 * Fondements théoriques et interprétations au centre du stage
-* Une partie implémentation et application, de préférence avec quelques défis d'algorithmie, de préférence sans trop de calcul haute performance et de détails pratiques d'implémentation
+* Une partie implémentation et application, de préférence avec quelques défis d'algorithmie, de préférence sans trop de calcul haute performance et de détails pratiques de code
 
 ### Laboratoire
 <!-- * Une ville agréable et riche à découvrir, Toulouse, Lyon, Nancy, Grenoble

@@ -23,6 +23,7 @@ Ensuite push to master et tout va comme sur des roulettes
 * CV plus simple
 * photo expliquer
 * terms and conditions
+* kairos et compagnie cognition language
 
 ## Details
 * retirer images du fork
