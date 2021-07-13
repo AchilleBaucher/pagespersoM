@@ -3,9 +3,10 @@ permalink: /
 title: "Summary"
 author_profile: true
 ---
+{% include base_path %}
 EN|[FR]({{ base_path }}{% link _pages/about_fr.md %})
 
-{% include base_path %}
+
 **[Website Under Construction]**
 
 ## Short bio

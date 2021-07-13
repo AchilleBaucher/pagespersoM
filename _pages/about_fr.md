@@ -3,8 +3,9 @@ permalink: /fr/
 title: "Résumé"
 author_profile: true
 ---
-[EN]({% link _pages/about.md %})|FR
 {% include base_path %}
+[EN]({% link _pages/about.md %})|FR
+
 **[Site en construction]**
 
 ## Mini biographie
