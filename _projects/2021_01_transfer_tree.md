@@ -1,5 +1,5 @@
 ---
-title: "Tranfer learning for Random Forests"
+title: "Transfer learning for Random Forests"
 date: 2021-01-01
 type: 'school'
 what: 'Statistical Learning course, final project'

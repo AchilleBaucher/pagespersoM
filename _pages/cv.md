@@ -13,9 +13,9 @@ Pdf versions: [EN]({{ base_path }}/files/cv_en.pdf), [FR]({{ base_path }}/files/
 Education
 ======
 * Erasmus Exchange Semester, [University of Oslo](https://www.uio.no/), *Spring 2021*
-  * *Probabilistic Graphical Models, Computational Statistics, Statistical Model Selection*
+  * *Computational Statistics, Probabilistic Graphical Models, Statistical Model Selection*
 * Ingineering Cursus in Applied Mathematics and Computer Science, [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/), *2016 - ongoing*
-  * *Analysis, Modelling, Optimisation, Data Analysis, Algorithmic, Computing, Databases, Graph Theory, High Performance Computing, Machine Learning, Cryptography*
+  * *Algorithmic, Numerical Analysis, Computing, Cryptography, Databases, Data Analysis, Modelling, High Performance Computing, Continous & Combinatorial Optimisation, Machine Learning, Signal Processing, Stochastic Processes*
 * Scientific Baccalaureate, Lycée Hoche de Versailles, *2016*
 
 Work experience
@@ -59,6 +59,8 @@ Associative Experience
   * Hired new students, helped to design and supervised projects, workshops, etc.
 * Rafisto (Enactus project), 2018-2019
   * Co-created and led an associative project
-  * Organized workshops to repair devices, Tried to sensibilise students about planned obsollescence
+  * Organized workshops to repair devices
+  * Tried to sensibilise students about planned obsollescence
 * Scout, 2010-2016
-  * ...
+  * Organized diverse projects: buildings, camps
+  * Led a team of height members during one year
