@@ -10,7 +10,7 @@ EN|[FR]({{ base_path }}{% link _pages/about_fr.md %})
 **[Website Under Construction]**
 
 ## Short bio
-Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) in Applied Mathematics and Computer Science, I'm willing to continue my studies with a PhD. I'm currently looking for a 6 months reseach internship, see [below](#ideal-internship) for more information. You can have a look at my [projects]({{ base_path }}/projects/) and [CV]({{ base_path }}/cv/).
+Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in Applied Mathematics and Computer Science, I'm willing to continue my studies with a PhD. I'm currently looking for a 6 months reseach internship, see [below](#ideal-internship) for more information. You can have a look at my [projects]({{ base_path }}/projects/) and [CV]({{ base_path }}/cv/).
 
 ### Potentially interesting qualities
 * I like complex and multi-field problems

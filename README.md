@@ -17,7 +17,6 @@ Ensuite push to master et tout va comme sur des roulettes
 
 # A faire
 ## Contenu
-* nom de domaine
 * ajouter alergia et delaunay
 * framagit github choix et nettoie
 * CV plus simple

@@ -9,7 +9,7 @@ author_profile: true
 **[Site en construction]**
 
 ## Mini biographie
-Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/) en spécialité Mathématiques Appliquées et Informatique. Après mon stage de fin d'étude, j'aimerais continuer en thèse. Je recherche actuellement un stage de 6 mois, niveau Master 2, en laboratoire de recherche, voir [ci-dessous](#stage-idéal) pour plus d'informations. Vous pouvez jeter un oeil aux différents [projets]({{ base_path }}/projects/) que j'ai réalisé et à mon [CV]({{ base_path }}/cv/).
+Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) en spécialité Mathématiques Appliquées et Informatique. Après mon stage de fin d'étude, j'aimerais continuer en thèse. Je recherche actuellement un stage de 6 mois, niveau Master 2, en laboratoire de recherche, voir [ci-dessous](#stage-idéal) pour plus d'informations. Vous pouvez jeter un oeil aux différents [projets]({{ base_path }}/projects/) que j'ai réalisé et à mon [CV]({{ base_path }}/cv/).
 
 ### Qualités potentiellement appréciables
 * Goût pour les problèmes compliqués et pluridisciplinaires
