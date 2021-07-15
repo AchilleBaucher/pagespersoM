@@ -1,6 +1,6 @@
 ---
 title: "Implementation of a Grammatical Inference algorithm"
-date: 2018-09-01
+date: 2020-05-01
 type: 'personal'
 what: 'autonomous personal project'
 summary: 'I implemented in C++ a grammatical inference algorithm, tested it and tried to bring some improvment, for mitigate results.'
