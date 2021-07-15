@@ -7,7 +7,7 @@ institution: Polytech Sorbonne
 institution_url: https://www.polytech.sorbonne-universite.fr/
 summary: 'We implemented a simulation of a some agents (moving like smoke) in competition within a hostile environment, with reproduction and mutations, in order to observe the effects of natural selection.'
 report: "report_darwinian_smoke.pdf"
-logo: logo_darwinian_smoke.jpg
+logo: logo_darwinian_smoke.png
 logo_desc: "'Some smokes trying to avoid projectiles.'"
 languages: "C++, LateX"
 ---
