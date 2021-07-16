@@ -14,7 +14,7 @@ Education
 ======
 * Erasmus Exchange Semester, [University of Oslo](https://www.uio.no/), *Spring 2021*
   * *[Computational Statistics](https://www.uio.no/studier/emner/matnat/math/STK4051/index-eng.html#course_content), [Probabilistic Graphical Models](https://www.uio.no/studier/emner/matnat/math/STK4290/v21/final-curriculum.html), [Statistical Model Selection](https://www.uio.no/studier/emner/matnat/math/STK4160/index-eng.html#course_content)*
-* Ingineering Cursus in Applied Mathematics and Computer Science, [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique), *2016 - ongoing*
+* Engineering Cursus in Applied Mathematics and Computer Science, [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique), *2016 - ongoing*
   * *Algorithmic, Numerical Analysis, Computing, Cryptography, Databases, Data Analysis, Modelling, High Performance Computing, Continous & Combinatorial Optimisation, Machine Learning, Signal Processing, Stochastic Processes*
 * Scientific Baccalaureate, Lycée Hoche de Versailles, *2016*
 
