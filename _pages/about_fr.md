@@ -13,9 +13,9 @@ Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytec
 
 ### Qualités potentiellement appréciables
 * Goût pour les problèmes compliqués et pluridisciplinaires
-* Obstination de réaliser jusqu'au bout certains aspects de mon travail (mais pas tous)
-* Propention à avoir un recul critique sur mon activité (et celles des autres)
-* Ne craint pas les questions et idées absurdes (certaines sont créatives)
+* Obstination de réaliser jusqu'au bout certains aspects de mon travail
+* Propention à avoir un recul critique sur mon activité
+* Ne craint pas les questions et idées absurdes
 
 ## Centre d'intérêts
 * Apprentissage artificiel, dans ses aspects théoriques

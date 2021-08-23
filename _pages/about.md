@@ -15,7 +15,7 @@ Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbon
 ### Potentially interesting qualities
 * I like complex and multi-field problems
 * I tend to criticize the meaning and the usefulness of my activity
-* I'm not afraid of proposing absurd ideas and questions (some are creative)
+* I'm not afraid of proposing absurd ideas and questions
 
 ## Research interests
 * Machine Learning, theoretical aspects
@@ -28,7 +28,7 @@ Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbon
 ## Ideal Internship
 I listed here the criteria I find the most important for my final internship. It should last 6 months and begin as soon as possible.
 
-### Thème
+### Field
 * Machine Learning, theoretical aspects
 * Conductive to interesting metaphysical thoughts: Causality, Information, Learning, etc.
 * Possible applications in ecological and environmental studies
