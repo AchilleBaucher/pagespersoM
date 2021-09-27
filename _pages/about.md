@@ -10,7 +10,7 @@ EN|[FR]({{ base_path }}{% link _pages/about_fr.md %})
 **[Website Under Construction]**
 
 ## Short bio
-Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in Applied Mathematics and Computer Science, I'm willing to continue my studies with a PhD. I'm currently looking for a 6 months reseach internship, see [below](#ideal-internship) for more information. You can have a look at my [projects]({{ base_path }}/projects/) and [CV]({{ base_path }}/cv/).
+Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in Applied Mathematics and Computer Science, I'm willing to continue my studies with a PhD. I'm currently working at the [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). You can have a look at my [projects]({{ base_path }}/projects/) and [CV]({{ base_path }}/cv/).
 
 ### Potentially interesting qualities
 * I like complex and multi-field problems
@@ -25,7 +25,7 @@ Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbon
 * Topological Approaches in Data Analysis
 
 
-## Ideal Internship
+<!-- ## Ideal Internship
 I listed here the criteria I find the most important for my final internship. It should last 6 months and begin as soon as possible.
 
 ### Field
@@ -40,10 +40,10 @@ I listed here the criteria I find the most important for my final internship. It
 * Some application and implementation part, with some algorithmic challenges, and minimum coding and high performance computing details
 
 ### Lab
-<!-- * Une ville agréable et riche à découvrir, Toulouse, Lyon, Nancy, Grenoble
+ Une ville agréable et riche à découvrir, Toulouse, Lyon, Nancy, Grenoble
 * Laboratoire accessible en vélo
-* Travail en présentiel, avec quelque flexibilité -->
+* Travail en présentiel, avec quelque flexibilité
 * Being able to interact with several researchers, to discover, to go to conferences
 
-<!-- ### Divers
+### Divers
 * Éviter d'être financé par des organisations louches (industries d'armement, finance, acquisition de données personelles, etc.) -->
