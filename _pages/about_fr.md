@@ -9,9 +9,24 @@ author_profile: true
 **[Site en construction]**
 
 ## Mini biographie
-Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) en spécialité Mathématiques Appliquées et Informatique. Après mon stage de fin d'étude, j'aimerais continuer en thèse. Je suis actuellement en stage au [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). Vous pouvez jeter un oeil aux différents [projets]({{ base_path }}/projects/) que j'ai réalisé et à mon [CV]({{ base_path }}/cv/).
+Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) en spécialité Mathématiques Appliquées et Informatique. Je suis actuellement en stage au [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). Vous pouvez jeter un oeil aux différents [projets]({{ base_path }}/projects/) que j'ai réalisé et à mon [CV]({{ base_path }}/cv/).
 
-### Qualités potentiellement appréciables
+## Stage au LIG, depuis le 1er Octobre 2021
+Je travaille sur deux objectifs en parallèle:
+### Apprentissage automatique de dynamique de systèmes
+* Objectif: À partir de données dynamiques (Ex: population, taille de la surface agricole utilisée, ...), tenter de faire apprendre les relations causales, interconnexions, fonctions qui lient ces variables (Ex: population étend la surface, surface par personne étend population).
+* Moyen: Entraîner un Echo State Network (ESN) à prédire la séquence suivante de ces variables. Puis, observer au sein du réservoir de neurones que contient le réseau, quelles types de dynamiques, relations et paramètres ont été apprises.
+* Avancement: Au 12 Octobre, j'essaie déjà de comprendre comment fonctionne un ESN
+
+### Compréhension de modélisations de sénarios écologiques et applications pédagogiques
+* Objectif: Utiliser des modèles de type World3, HANDY ou la Théorie Structurelle Démographique pour nous aider à comprendre les dynamiques de notre monde et envisager des solutions adaptées à la crise écologique
+* Moyens: Implémentations simples de ces modèles, à usage pédagogique
+* Avancement: Au 12 Octobre, je reprends pyworld3 pour implémenter les différents scénarios du rapport de Meadows (j'en suis au 3eme sur 12)
+
+### À terme
+La visée à terme serait de réunir ces objectifs en aprenant automatiquement les dynamiques de systèmes telles que celles de modèles type World3
+
+<!-- ### Qualités potentiellement appréciables
 * Goût pour les problèmes compliqués et pluridisciplinaires
 * Obstination de réaliser jusqu'au bout certains aspects de mon travail
 * Propention à avoir un recul critique sur mon activité
@@ -24,7 +39,7 @@ Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytec
 * Optimisation combinatoire, théorie des graphes
 * Approches topologiques pour l'analyse de données
 
-<!-- ## Stage idéal
+## Stage idéal
 J'ai listé ici les critères qui me tenaient le plus à coeur dans la recherche de mon stage de fin d'étude. Il doit durer 6 mois et débuter dès que possible.
 
 ### Thème
