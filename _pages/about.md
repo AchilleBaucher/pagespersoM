@@ -10,8 +10,24 @@ EN|[FR]({{ base_path }}{% link _pages/about_fr.md %})
 **[Website Under Construction]**
 
 ## Short bio
-Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in Applied Mathematics and Computer Science, I'm willing to continue my studies with a PhD. I'm currently working at the [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). You can have a look at my [projects]({{ base_path }}/projects/) and [CV]({{ base_path }}/cv/).
+Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in Applied Mathematics and Computer Science, I'm working at the [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). You can have a look at my [projects]({{ base_path }}/projects/) and [CV]({{ base_path }}/cv/).
 
+## LIG internship, since th 1/10/2021
+I'm simultaneously working on 2 objectives
+### Machine learning of system dynamics
+* Objective: From given dynamic data, try to learn causal relations, interconnections, functions that relies the variable.
+* Means: Train an Echo State Network (ESN) to predict the next sequence of this varaibles. Then analyse within the neurone reservoir inside the network, what type of dynamics, relations and paramters have benn learnt.
+* Currently: 12/10, I try to understand how does an ESN work
+
+### Understanding ecological models and teaching applications
+* Objective: Use models like Wolrd3, HANDY or Structural Deomgraphic Theory to help us understanding out world's dynamics and deduce adapted solutions in front of the ecological crisis
+* Means: Simple implementation of these models
+* Currently: 12/10, I try to implement the 12 meadows's senarios on ppyworld3
+
+### Final objective
+It would be to gather the two objectives by automatically learning system dynamics of models like World3 etc.
+
+<!--
 ### Potentially interesting qualities
 * I like complex and multi-field problems
 * I tend to criticize the meaning and the usefulness of my activity
@@ -25,7 +41,7 @@ Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbon
 * Topological Approaches in Data Analysis
 
 
-<!-- ## Ideal Internship
+## Ideal Internship
 I listed here the criteria I find the most important for my final internship. It should last 6 months and begin as soon as possible.
 
 ### Field
