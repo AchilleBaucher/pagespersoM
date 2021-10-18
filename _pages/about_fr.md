@@ -15,7 +15,7 @@ Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytec
 Je travaille sur deux objectifs en parallèle:
 ### Apprentissage automatique de dynamique de systèmes
 * Objectif: À partir de données dynamiques (Ex: population, taille de la surface agricole utilisée, ...), tenter de faire apprendre les relations causales, interconnexions, fonctions qui lient ces variables (Ex: population étend la surface, surface par personne étend population).
-* Moyen: Entraîner un Echo State Network (ESN) à prédire la séquence suivante de ces variables. Puis, observer au sein du réservoir de neurones que contient le réseau, quelles types de dynamiques, relations et paramètres ont été apprises.
+* Moyen: Entraîner un Echo State Network (ESN) à prédire la séquence suivante de ces variables. Puis, observer au sein du réservoir de neurones que contient le réseau, quelles types de dynamiques, relations et paramètres ont été appris.
 * Avancement: Au 12 Octobre, j'essaie déjà de comprendre comment fonctionne un ESN
 
 ### Compréhension de modélisations de sénarios écologiques et applications pédagogiques
