@@ -18,8 +18,8 @@ Je travaille sur deux objectifs en parallèle:
 * Moyen: Entraîner un Echo State Network (ESN) à prédire la séquence suivante de ces variables. Puis, observer au sein du réservoir de neurones que contient le réseau, quelles types de dynamiques, relations et paramètres ont été appris.
 * Avancement: Au 12 Octobre, j'essaie déjà de comprendre comment fonctionne un ESN
 
-### Compréhension de modélisations de sénarios écologiques et applications pédagogiques
-* Objectif: Utiliser des modèles de type World3, HANDY ou la Théorie Structurelle Démographique pour nous aider à comprendre les dynamiques de notre monde et envisager des solutions adaptées à la crise écologique
+### Compréhension de scénarios de dépassement consécutifs à l'anthropocène
+* Objectif: Utiliser des modèles de type World3, HANDY ou la Théorie Structurelle Démographique pour nous aider à comprendre les dynamiques de l'anthropocène et envisager des solutions adaptées à la crise écologique
 * Moyens: Implémentations simples de ces modèles, à usage pédagogique
 * Avancement: Au 12 Octobre, je reprends pyworld3 pour implémenter les différents scénarios du rapport de Meadows (j'en suis au 3eme sur 12)
 
