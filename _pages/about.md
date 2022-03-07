@@ -27,6 +27,9 @@ I'm simultaneously working on this 2 objectives:
 ### Final objective
 It would be to gather the two objectives by automatically learning system dynamics of models like World3 etc.
 
+### Ending 07/03
+My report in french is [here]({{ base_path }}/files/rapport_lig.pdf), and the slides of my presentation [there]({{ base_path }}/files/diapos_lig.pdf).
+
 <!--
 ### Potentially interesting qualities
 * I like complex and multi-field problems
