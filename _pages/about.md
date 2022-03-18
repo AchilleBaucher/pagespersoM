@@ -10,8 +10,10 @@ EN|[FR]({{ base_path }}{% link _pages/about_fr.md %})
 **[Website Under Construction]**
 
 ## Short bio
-Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in Applied Mathematics and Computer Science, I'm working at the [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). You can have a look at my [projects]({{ base_path }}/projects/) and [CV]({{ base_path }}/cv/).
+Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in Applied Mathematics and Computer Science, I'm working at the [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). You can have a look at my [projects]({{ base_path }}/projects/).
 
+The report of my internship in french is [here]({{ base_path }}/files/rapport_lig.pdf), and the slides of my presentation [there]({{ base_path }}/files/diapos_lig.pdf). There is also the [article]({{ base_path }}/files/gretsiw3.pdf) I submitted to GRETSI 2022.
+<!--
 ## LIG internship, since the 1/10/2021
 I'm simultaneously working on this 2 objectives:
 ### Machine learning of system dynamics
@@ -30,7 +32,7 @@ It would be to gather the two objectives by automatically learning system dynami
 ### Ending 07/03
 My report in french is [here]({{ base_path }}/files/rapport_lig.pdf), and the slides of my presentation [there]({{ base_path }}/files/diapos_lig.pdf).
 
-<!--
+
 ### Potentially interesting qualities
 * I like complex and multi-field problems
 * I tend to criticize the meaning and the usefulness of my activity

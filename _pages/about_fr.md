@@ -8,9 +8,18 @@ author_profile: true
 
 **[Site en construction]**
 
-## Mini biographie
-Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) en spécialité Mathématiques Appliquées et Informatique. Je suis actuellement en stage au [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). Vous pouvez jeter un oeil aux différents [projets]({{ base_path }}/projects/) que j'ai réalisé et à mon [CV]({{ base_path }}/cv/).
+Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) en spécialité Mathématiques Appliquées et Informatique. Je suis actuellement en stage au [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). Vous pouvez jeter un oeil aux différents [projets]({{ base_path }}/projects/) que j'ai réalisé et surtout à mon [rapport de stage]({{ base_path }}/_files/rapport_lig.pdf). Il y a aussi l'[article]({{ base_path }}/files/gretsiw3.pdf) que j'ai soumis à GRETSI 2022.
 
+Et puis aussi, si jamais l'un des thèmes suivants:
+- Critique de la technologie et de la recherche scientifique
+- Anthropologie et imaginaires de société
+- Formalismes mathématiques pour appréhender les systèmes complexes
+- Formes conviviales de prise de décisions et de transmission de savoirs
+- Écologie et désastres industriels
+- Tout un tas d'autres sujets, de la cliodynamique à la reproduction des fougères
+vous intéresse, il y a peu de chance que ça me fasse pas super plaisir d'en discuter.
+
+<!--
 ## Stage au LIG, depuis le 1er Octobre 2021
 Je travaille sur deux objectifs en parallèle:
 ### Apprentissage automatique de dynamique de systèmes
@@ -26,7 +35,7 @@ Je travaille sur deux objectifs en parallèle:
 ### À terme
 La visée à terme serait de réunir ces objectifs en aprenant automatiquement les dynamiques de systèmes telles que celles de modèles type World3
 
-<!-- ### Qualités potentiellement appréciables
+### Qualités potentiellement appréciables
 * Goût pour les problèmes compliqués et pluridisciplinaires
 * Obstination de réaliser jusqu'au bout certains aspects de mon travail
 * Propention à avoir un recul critique sur mon activité
