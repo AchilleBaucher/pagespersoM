@@ -8,13 +8,18 @@ EN|[FR]({{ base_path }}{% link _pages/about_fr.md %})
 
 
 **[Website Under Construction]**
+## What
+I'm administratively considered as a PhD tutored by Romain Couillet in the POLARIS team of the *Laboratoire d'Informatique de Grenoble*. 
 
+The report of my internship in french is [here]({{ base_path }}/files/rapport_lig.pdf), and the slides of my presentation [there]({{ base_path }}/files/diapos_lig.pdf). There is also the [article]({{ base_path }}/files/gretsiw3.pdf) I submitted to GRETSI 2022.
+
+
+<!--
 ## Short bio
 Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in Applied Mathematics and Computer Science, I'm working at the [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). You can have a look at my [projects]({{ base_path }}/projects/).
 
 The report of my internship in french is [here]({{ base_path }}/files/rapport_lig.pdf), and the slides of my presentation [there]({{ base_path }}/files/diapos_lig.pdf). There is also the [article]({{ base_path }}/files/gretsiw3.pdf) I submitted to GRETSI 2022.
 
-<!--
 ## LIG internship, since the 1/10/2021
 I'm simultaneously working on this 2 objectives:
 ### Machine learning of system dynamics

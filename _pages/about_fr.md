@@ -6,10 +6,12 @@ author_profile: true
 {% include base_path %}
 [EN]({{ base_path }}{% link _pages/about.md %})|FR
 
-**[Site en construction]**
+## Quoi
+L'administration me considéère comme un doctorant tutoré par Romain Couillet dans l'équipe POLARIS du Laboratoire d'Informatique de Grenoble. 
 
-Je termine actuellement ma scolarité à [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) en spécialité Mathématiques Appliquées et Informatique. Je suis actuellement en stage au [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). Vous pouvez jeter un oeil aux différents [projets]({{ base_path }}/projects/) que j'ai réalisé et surtout à mon [rapport de stage]({{ base_path }}/_files/rapport_lig.pdf). Il y a aussi l'[article]({{ base_path }}/files/gretsiw3.pdf) que j'ai soumis à GRETSI 2022.
+Si ça vous intéresse de lire mes réflexions sur les modèles systémiques ou la recherche en informatique, vous pouvez jeter un oeil à mon rapport [rapport de stage]({{ base_path }}/_files/rapport_lig.pdf), ou à l'[article]({{ base_path }}/files/gretsiw3.pdf) que j'ai présenté à GRETSI 2022.
 
+<!--
 Et puis aussi, si jamais l'un des thèmes suivants:
 - Critique de la technologie et de la recherche scientifique
 - Anthropologie et imaginaires de société
@@ -19,7 +21,7 @@ Et puis aussi, si jamais l'un des thèmes suivants:
 - Tout un tas d'autres sujets, de la cliodynamique à la reproduction des fougères
 vous intéresse, il y a peu de chance que ça me fasse pas super plaisir d'en discuter.
 
-<!--
+
 ## Stage au LIG, depuis le 1er Octobre 2021
 Je travaille sur deux objectifs en parallèle:
 ### Apprentissage automatique de dynamique de systèmes
