@@ -4,73 +4,72 @@ title: "Summary"
 author_profile: true
 ---
 {% include base_path %}
-EN|[FR]({{ base_path }}{% link _pages/about_fr.md %})
+FRANÇAIS|[ENGLISH]({{ base_path }}{% link _pages/about_en.md %})
 
 
-**[Website Under Construction]**
-## What
-I'm administratively considered as a PhD tutored by Romain Couillet in the POLARIS team of the *Laboratoire d'Informatique de Grenoble*. 
+## Quoi
+L'administration me considéère comme un doctorant tutoré par Romain Couillet dans l'équipe POLARIS du Laboratoire d'Informatique de Grenoble. 
 
-The report of my internship in french is [here]({{ base_path }}/files/rapport_lig.pdf), and the slides of my presentation [there]({{ base_path }}/files/diapos_lig.pdf). There is also the [article]({{ base_path }}/files/gretsiw3.pdf) I submitted to GRETSI 2022.
-
+Si ça vous intéresse de lire mes réflexions sur les modèles systémiques ou la recherche en informatique, vous pouvez jeter un oeil à mon rapport [rapport de stage]({{ base_path }}/_files/rapport_lig.pdf), ou à l'[article]({{ base_path }}/files/gretsiw3.pdf) que j'ai présenté à GRETSI 2022.
 
 <!--
-## Short bio
-Currently ending my education at [Polytech Sorbonne](https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique) in Applied Mathematics and Computer Science, I'm working at the [Laboratoire d'Informatique de Grenoble](https://www.liglab.fr/). You can have a look at my [projects]({{ base_path }}/projects/).
-
-The report of my internship in french is [here]({{ base_path }}/files/rapport_lig.pdf), and the slides of my presentation [there]({{ base_path }}/files/diapos_lig.pdf). There is also the [article]({{ base_path }}/files/gretsiw3.pdf) I submitted to GRETSI 2022.
-
-## LIG internship, since the 1/10/2021
-I'm simultaneously working on this 2 objectives:
-### Machine learning of system dynamics
-* Objective: From given dynamic data, try to learn causal relations, interconnections, functions that link variables.
-* Means: Train an Echo State Network (ESN) to predict the next sequence of this varaibles. Then analyse within the neurone reservoir inside the network, what type of dynamics, relations and paramters have been learnt.
-* Currently: 12/10, I try to understand how does an ESN work
-
-### Understanding ecological models and teaching applications
-* Objective: Use models like Wolrd3, HANDY or Structural Deomgraphic Theory to help us understanding out world's dynamics and deduce adapted solutions in front of the ecological crisis
-* Means: Simple implementations of these models for teaching applications
-* Currently: 12/10, I try to implement the 12 meadows's senarios on pyworld3
-
-### Final objective
-It would be to gather the two objectives by automatically learning system dynamics of models like World3 etc.
-
-### Ending 07/03
-My report in french is [here]({{ base_path }}/files/rapport_lig.pdf), and the slides of my presentation [there]({{ base_path }}/files/diapos_lig.pdf).
+Et puis aussi, si jamais l'un des thèmes suivants:
+- Critique de la technologie et de la recherche scientifique
+- Anthropologie et imaginaires de société
+- Formalismes mathématiques pour appréhender les systèmes complexes
+- Formes conviviales de prise de décisions et de transmission de savoirs
+- Écologie et désastres industriels
+- Tout un tas d'autres sujets, de la cliodynamique à la reproduction des fougères
+vous intéresse, il y a peu de chance que ça me fasse pas super plaisir d'en discuter.
 
 
-### Potentially interesting qualities
-* I like complex and multi-field problems
-* I tend to criticize the meaning and the usefulness of my activity
-* I'm not afraid of proposing absurd ideas and questions
+## Stage au LIG, depuis le 1er Octobre 2021
+Je travaille sur deux objectifs en parallèle:
+### Apprentissage automatique de dynamique de systèmes
+* Objectif: À partir de données dynamiques (Ex: population, taille de la surface agricole utilisée, ...), tenter de faire apprendre les relations causales, interconnexions, fonctions qui lient ces variables (Ex: population étend la surface, surface par personne étend population).
+* Moyen: Entraîner un Echo State Network (ESN) à prédire la séquence suivante de ces variables. Puis, observer au sein du réservoir de neurones que contient le réseau, quelles types de dynamiques, relations et paramètres ont été appris.
+* Avancement: Au 12 Octobre, j'essaie déjà de comprendre comment fonctionne un ESN
 
-## Research interests
-* Machine Learning, theoretical aspects
-* Ecology, Environmental studies
-* Graphical Models, Inference, Causality
-* Combinatorial Optimisation, Graph Theory
-* Topological Approaches in Data Analysis
+### Compréhension de scénarios de dépassement consécutifs à l'anthropocène
+* Objectif: Utiliser des modèles de type World3, HANDY ou la Théorie Structurelle Démographique pour nous aider à comprendre les dynamiques de l'anthropocène et envisager des solutions adaptées à la crise écologique
+* Moyens: Implémentations simples de ces modèles, à usage pédagogique
+* Avancement: Au 12 Octobre, je reprends pyworld3 pour implémenter les différents scénarios du rapport de Meadows (j'en suis au 3eme sur 12)
 
+### À terme
+La visée à terme serait de réunir ces objectifs en aprenant automatiquement les dynamiques de systèmes telles que celles de modèles type World3
 
-## Ideal Internship
-I listed here the criteria I find the most important for my final internship. It should last 6 months and begin as soon as possible.
+### Qualités potentiellement appréciables
+* Goût pour les problèmes compliqués et pluridisciplinaires
+* Obstination de réaliser jusqu'au bout certains aspects de mon travail
+* Propention à avoir un recul critique sur mon activité
+* Ne craint pas les questions et idées absurdes
 
-### Field
-* Machine Learning, theoretical aspects
-* Conductive to interesting metaphysical thoughts: Causality, Information, Learning, etc.
-* Possible applications in ecological and environmental studies
+## Centre d'intérêts
+* Apprentissage artificiel, dans ses aspects théoriques
+* Écologie et études environnementales
+* Réseaux Bayésiens, inférence et causalité
+* Optimisation combinatoire, théorie des graphes
+* Approches topologiques pour l'analyse de données
 
-### Context and objectives
-* To have a clear conduct line and objective
-* To be free to explore and criticize the objective
-* Theoretical aspects and interpretations at the core of the objective
-* Some application and implementation part, with some algorithmic challenges, and minimum coding and high performance computing details
+## Stage idéal
+J'ai listé ici les critères qui me tenaient le plus à coeur dans la recherche de mon stage de fin d'étude. Il doit durer 6 mois et débuter dès que possible.
 
-### Lab
- Une ville agréable et riche à découvrir, Toulouse, Lyon, Nancy, Grenoble
+### Thème
+* Apprentissage artificiel, dans ses aspects théoriques
+* Propice aux réflexions métaphysiques: causalité, information, apprentissage, etc.
+* Applications possibles en écologie & études environnementales
+
+### Sujet
+* Structuré: disposer d'une piste claire et d'un objectif
+* Libre: pas completement dépendant de l'objectif, exploration possible
+* Fondements théoriques et interprétations au centre du stage
+* Une partie implémentation et application, de préférence avec quelques défis d'algorithmie, de préférence sans trop de calcul haute performance et de détails pratiques de code
+
+### Laboratoire
+* Une ville agréable et riche à découvrir, Toulouse, Lyon, Nancy, Grenoble
 * Laboratoire accessible en vélo
 * Travail en présentiel, avec quelque flexibilité
-* Being able to interact with several researchers, to discover, to go to conferences
+* Possibilités de travailler avec une certaine diversité de chercheurs, de rencontrer, de découvrir, d'aller à des conférences
 
 ### Divers
 * Éviter d'être financé par des organisations louches (industries d'armement, finance, acquisition de données personelles, etc.) -->
