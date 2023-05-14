@@ -8,9 +8,10 @@ FRANÇAIS|[ENGLISH]({{ base_path }}{% link _pages/about_en.md %})
 
 
 ## Quoi
-L'administration me considéère comme un doctorant tutoré par Romain Couillet dans l'équipe POLARIS du Laboratoire d'Informatique de Grenoble. 
+L'administration me considère comme un doctorant tutoré par Romain Couillet dans l'équipe POLARIS du Laboratoire d'Informatique de Grenoble. 
 
-Si ça vous intéresse de lire mes réflexions sur les modèles systémiques ou la recherche en informatique, vous pouvez jeter un oeil à mon rapport [rapport de stage]({{ base_path }}/_files/rapport_lig.pdf), ou à l'[article]({{ base_path }}/files/gretsiw3.pdf) que j'ai présenté à GRETSI 2022.
+Si ça vous intéresse de lire mes réflexions sur les modèles systémiques ou la recherche en informatique, vous pouvez jeter un oeil à mon rapport [rapport de stage]({{ base_path }}/_files/rapport_lig.pdf), à l'[article]({{ base_path }}/files/gretsiw3.pdf) que j'ai présenté à la conférence GRETSI 2022, ou à [celui]({{ base_path }}/files/gretsigarin.pdf) celui que j'ai soumis à GRETSI 2023.
+
 
 <!--
 Et puis aussi, si jamais l'un des thèmes suivants:
