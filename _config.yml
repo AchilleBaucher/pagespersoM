@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Achille Baucher"
   avatar           : "profile.png"
-  bio              : "Étudiant Master 2 Mathématiques Appliquées et Informatique"
-  location         : "Paris"
+  bio              : "Sur le campus"
+  location         : Grenoble
   employer         :
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : 
   email            : "achille.baucher@univ-grenoble-alpes.fr"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,18 +96,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  framagit         : "Acquilles"
-  github           : "achillebaucher"
+  framagit         : 
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
-  linkedin         : "achille-baucher-a14b01176"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          :
