@@ -1,9 +1,9 @@
 ---
 permalink: /
-title: "Site web - Achille"
+title: "Site de publication"
 author_profile: true
 ---
-# Textes publiés
+## Textes publiés :
 
 - [Manuscrit de thèse complet]({{ base_path }}/files/thesenet.pdf)
 - Extraits :
@@ -11,3 +11,6 @@ author_profile: true
   - [Bifurquer dans le même train]({{ base_path }}/files/bifurquernet.pdf)
   - [Qu'est ce qu'on fait à l'IMAG ?]({{ base_path }}/files/imagnet.pdf)
 - [12 thèses soutenues lors de la soutenance du 1er Juin 2026]({{ base_path }}/files/theses-1erjuin.pdf)
+
+## Contact
+> achille@baucher.net
