@@ -31,7 +31,7 @@ L'enjeu va donc au delà d'une soutenance, il s'agit pour nous de lutter contre 
 
 **Nous proposons également à toutes celles et ceux qui appartiennent à la communauté scientifique, et particulièrement en mathématiques/informatique, de signer [cette pétition](https://framaforms.org/petition-pour-la-soutenance-dachille-baucher-1788340685)[^2] stipulant que la soutenance de thèse doit être autorisée dans la discipline « Informatique » ou « Mathématiques appliquées »**. Cette pétition viserait à invalider la légitimité de la décision des instances doctorales, qui ont prétendu agir « mandatées » par la communauté scientifique.
 
-Si vous préférez, nous recevrons avec plaisir par courrier un don (chèque ou espèces) ou la pétition signée. Adresse postale : *921 rue des Résidences, 38100 Saint-Martin d'Hères*. Destinataire du chèque : Achille Baucher
+Si vous préférez, nous recevrons avec plaisir par courrier un don (chèque ou espèces) ou la pétition signée. Adresser le courrier à *Romain Couillet, LIG, IMAG, 150 place du Torrent, 38400 St-Martin-d'Hères*. Destinataire du chèque : Achille Baucher
 
 Merci de votre lecture et de votre soutien,
 
